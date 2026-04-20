@@ -1,3 +1,5 @@
 User-agent: *
 Disallow: /politicas/lotr.html
 Disallow: /politicas/wcg.html
+Disallow: /gamagame.online/politicas/lotr.html
+Disallow: /gamagame.online/politicas/wcg.html
